@@ -1,1 +1,1 @@
-Hoc nhanh Linux bang toc do anh sang!
+Học nhanh Linux bằng tốc độ ánh sáng!
