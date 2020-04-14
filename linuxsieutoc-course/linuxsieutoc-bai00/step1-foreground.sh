@@ -1,2 +1,2 @@
-sleep 15
+sleep 3
 figlet "Linux Sieu Toc . Com"
