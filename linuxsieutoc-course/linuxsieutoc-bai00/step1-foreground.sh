@@ -1,3 +1,2 @@
-apt-get update &> /dev/null && apt-get install -y figlet &> /dev/null
-clear
+sleep 15
 figlet "Linux Sieu Toc . Com"
