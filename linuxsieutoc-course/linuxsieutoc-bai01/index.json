@@ -3,6 +3,7 @@
   "description": "Hướng dẫn gõ lệnh và sử dụng lệnh trợ giúp man",
   "difficulty": "Beginner",
   "time": "5",
+  "authenticated": false,
   "details": {
     "steps": [
       {
