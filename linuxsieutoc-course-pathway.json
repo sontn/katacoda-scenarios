@@ -1,6 +1,7 @@
 {
   "title": "Linux Siêu Tốc",
   "description": "Học nhanh Linux Ubuntu bằng tốc độ ánh sáng",
+  "authenticated": false,
   "courses": [
     {
       "course_id": "linuxsieutoc-bai00",
