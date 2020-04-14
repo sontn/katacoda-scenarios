@@ -3,6 +3,11 @@
   "description": "Học nhanh Linux Ubuntu bằng tốc độ chớp mắt",
   "courses": [
     {
+      "course_id": "linuxsieutoc-bai00",
+      "title": "Giới thiệu hệ điều hành Linux",
+      "description": "Giới thiệu về hệ điều hành Linux và khóa học Linux Siêu Tốc"
+    },
+    {
       "course_id": "linuxsieutoc-bai01",
       "title": "Chạy lệnh và trợ giúp lệnh",
       "description": "Hướng dẫn cách chạy lệnh Linux và nhận sự trợ giúp sử dụng lệnh"

@@ -1,6 +1,6 @@
 {
-  "title": "Giới thiệu về Filesystem",
-  "description": "Giới thiệu cấu trúc filesystem trên Linux",
+  "title": "Giới thiệu hệ điều hành Linux",
+  "description": "Giới thiệu về hệ điều hành Linux và khóa học Linux Siêu Tốc",
   "difficulty": "Beginner",
   "time": "2",
   "details": {
@@ -8,14 +8,6 @@
       {
         "title": "Step 1",
         "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
       }
     ],
     "intro": {

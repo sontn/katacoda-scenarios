@@ -1,1 +1,1 @@
-Học nhanh Linux bằng tốc độ ánh sáng!
+Hướng dẫn gõ lệnh và sử dụng lệnh trợ giúp man
