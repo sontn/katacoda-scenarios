@@ -52,6 +52,11 @@
       "course_id": "linuxsieutoc-bai09",
       "title": "Trình soạn thảo văn bản: vi",
       "description": "Soạn thảo file trên Linux bằng vi"
+    },
+    {
+      "course_id": "linuxsieutoc-bai10",
+      "title": "Tìm kiếm file trên linux",
+      "description": "Sử dụng lệnh find với các option name, size"
     }
   ]
 }
