@@ -32,6 +32,21 @@
       "course_id": "linuxsieutoc-bai05",
       "title": "Một vài thủ thuật khi gõ lệnh trên Linux",
       "description": "Các thủ thuật cơ bản hữu ích giúp tăng tốc khi gõ lệnh"
+    },
+    {
+      "course_id": "linuxsieutoc-bai06",
+      "title": "Tạo xóa thư mục, file",
+      "description": "Các lệnh cơ bản làm tạo xóa file và thư mục"
+    },
+    {
+      "course_id": "linuxsieutoc-bai07",
+      "title": "Copy, di chuyển, đổi tên file và thư mục",
+      "description": "Sử dụng lệnh cp, và mv"
+    },
+    {
+      "course_id": "linuxsieutoc-bai08",
+      "title": "Các kiểu đọc nội dung file",
+      "description": "Làm việc với các lệnh cat, more, less, head, tail"
     }
   ]
 }
