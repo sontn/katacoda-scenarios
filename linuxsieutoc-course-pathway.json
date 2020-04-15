@@ -47,6 +47,11 @@
       "course_id": "linuxsieutoc-bai08",
       "title": "Các kiểu đọc nội dung file",
       "description": "Làm việc với các lệnh cat, more, less, head, tail"
+    },
+    {
+      "course_id": "linuxsieutoc-bai08",
+      "title": "Trình soạn thảo văn bản: vi",
+      "description": "Soạn thảo file trên Linux bằng vi"
     }
   ]
 }
