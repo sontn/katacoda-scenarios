@@ -49,7 +49,7 @@
       "description": "Làm việc với các lệnh cat, more, less, head, tail"
     },
     {
-      "course_id": "linuxsieutoc-bai09",
+      "course_id": "linuxsieutoc-bai09 ",
       "title": "Trình soạn thảo văn bản: vi",
       "description": "Soạn thảo file trên Linux bằng vi"
     }
